@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web07:war">
+    <output-path>$PROJECT_DIR$/../web125/web07/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>web07</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web07.war">
+      <element id="artifact" artifact-name="web07:war exploded" />
+    </root>
+  </artifact>
+</component>

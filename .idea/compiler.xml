@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="Web08" />
+        <module name="web0605" />
+        <module name="web0604" />
+        <module name="web0603" />
+        <module name="web0601" />
+        <module name="Web0602" />
+        <module name="web07" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1221web" target="1.5" />
+      <module name="Tomcat" target="1.5" />
+      <module name="web" target="1.7" />
+      <module name="web06" target="1.7" />
+      <module name="web0601" target="1.7" />
+      <module name="Web0602" target="1.7" />
+      <module name="web0603" target="1.7" />
+      <module name="web0604" target="1.7" />
+      <module name="web0605" target="1.7" />
+      <module name="web07" target="1.7" />
+      <module name="Web08" target="1.7" />
+      <module name="web112" target="1.5" />
+      <module name="web125" target="1.7" />
+      <module name="web136" target="1.5" />
+      <module name="web142" target="1.7" />
+      <module name="web1445" target="1.7" />
+      <module name="web150" target="1.5" />
+      <module name="Web231" target="1.7" />
+      <module name="webyyy" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

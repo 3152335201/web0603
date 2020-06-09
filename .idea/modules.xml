@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../web125/Web0602/Web0602.iml" filepath="$PROJECT_DIR$/../web125/Web0602/Web0602.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/Web08/Web08.iml" filepath="$PROJECT_DIR$/../web125/Web08/Web08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web/web.iml" filepath="$PROJECT_DIR$/../web125/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web0601/web0601.iml" filepath="$PROJECT_DIR$/../web125/web0601/web0601.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web0603/web0603.iml" filepath="$PROJECT_DIR$/../web125/web0603/web0603.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web0604/web0604.iml" filepath="$PROJECT_DIR$/../web125/web0604/web0604.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web0605/web0605.iml" filepath="$PROJECT_DIR$/../web125/web0605/web0605.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web07/web07.iml" filepath="$PROJECT_DIR$/../web125/web07/web07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web125/web125.iml" filepath="$PROJECT_DIR$/../web125/web125.iml" />
+    </modules>
+  </component>
+</project>

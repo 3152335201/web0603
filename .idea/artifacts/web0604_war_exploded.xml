@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web0604:war exploded">
+    <output-path>$PROJECT_DIR$/../web125/web0604/target/web0604</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>web0604</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web0604" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+          <element id="archive" name="web0601-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="web0601" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../web125/web0604/target/web0604/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="web0604/web/Web" />
+    </root>
+  </artifact>
+</component>

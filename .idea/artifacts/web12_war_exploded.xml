@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web12:war exploded">
+    <output-path>$PROJECT_DIR$/../web125/web12/target/web12</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>web12</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web06" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="web-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="web" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../web125/web06/target/web12/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="web06/web/Web" />
+    </root>
+  </artifact>
+</component>
